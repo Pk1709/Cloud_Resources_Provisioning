@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tags=09121995/insacloud:v4
+tags=09121995/insacloud:image1

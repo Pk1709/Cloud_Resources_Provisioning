@@ -1,0 +1,6 @@
+version: '3'
+services:
+   web:
+      image: "09121995/insacloud:image1"
+      ports:
+      - "80:80"
