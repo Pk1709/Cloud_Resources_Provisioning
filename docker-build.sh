@@ -5,6 +5,6 @@ source $pwd/vars.sh
 
 #docker build -t $tags:$version .
 
-docker build -t $tags .
+sudo docker build -t $tags .
 
-docker push $tags
+sudo docker push $tags
