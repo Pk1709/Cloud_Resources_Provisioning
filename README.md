@@ -7,12 +7,7 @@ Objective
 
 Technology
 
-  Html, CSS, PHP, JavaScript, 
-  Amazon AWS
-  Docker Build
-  Docker Hub
-  Docker Compose
-  Jenkins
+  Html, CSS, PHP, JavaScript, Amazon AWS, Docker Build, Docker Hub, Docker Compose, Jenkins
 
 Repository details
 
