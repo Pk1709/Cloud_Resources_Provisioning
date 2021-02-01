@@ -21,6 +21,7 @@ Repository details
   2.) Dockerfile: It contains the instructions required to build the image
   3.) docker-build.sh: It is used to create the docker image and to push it to the Docker hub
   4.) docker-compose.yml:  The docker compose is installed and the following commands are used:
+        
         sudo curl –Lhttps://github.com/docker/compose/releases/download/1.28.2/docker-compose-$(uname-s)-$(uname--m)-                       o/usr/local/bin/docker-compose
         
         sudo chmod +x/usr/local/bin/docker-compose
@@ -34,7 +35,8 @@ Repository details
 
 To execute 
 
-  Clone the repository and use the commands and if you want you can modify the tag name by using cd vars.sh, run docker build.sh, It   would build the image.In case if you do not have access to docker hub, the second command would fail but you will be having the     image running on the instance. Once you have your image ready, follow docker compose steps and use docker-compose up
+  Clone the repository and use the commands and if you want you can modify the tag name by using cd vars.sh, run docker build.sh
+  It would build the image.In case if you do not have access to docker hub, the second command would fail but you will be having the   image running on the instance. Once you have your image ready, follow docker compose steps and use docker-compose up
 
 
 
