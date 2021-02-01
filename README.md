@@ -1,4 +1,4 @@
-                                              # Cloud_Resources_Provisioning
+                                    # Cloud_Resources_Provisioning
 
 
 Objective
